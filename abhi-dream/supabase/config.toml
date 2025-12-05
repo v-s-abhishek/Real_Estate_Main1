@@ -1,0 +1,13 @@
+project_id = "sywgpwuxhzrkebdtbxyh"
+
+[functions.send-enquiry]
+verify_jwt = true
+
+[functions.chat]
+verify_jwt = true
+
+[functions.update-enquiry-status]
+verify_jwt = true
+
+[functions.send-message]
+verify_jwt = true
